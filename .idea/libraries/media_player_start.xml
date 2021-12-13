@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="media-player-start">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/javascript/apis/video-audio/start/media-player-start.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

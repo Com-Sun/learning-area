@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="gallery-start">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/javascript/building-blocks/gallery/gallery-start.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
