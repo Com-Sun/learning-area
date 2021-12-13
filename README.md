@@ -1,9 +1,13 @@
 # learning-area
-Github repo for the [MDN Learning Area](https://developer.mozilla.org/en-US/Learn).
 
-Most of the code examples shown and discussed in the Learning Area can be found here; the directories in the repo match the module structure of the articles.
+이곳은 Vanilla JavaScript의 학습을 위한 또 다른 저장소입니다. [JavaScript 입문](https://github.com/Com-Sun/study-javascript-basic) 문서를 통한 학습 도중, 추가적인 학습이 필요한 부분을 따로 실습하여 commit합니다. 
 
-The one exception is the [Server-side website programming](https://developer.mozilla.org/en-US/docs/Learn/Server-side) examples — we broke these out into separate repos to make them easier to deal with:
+## 자바스크립트 구성 요소
 
-* https://github.com/mdn/express-locallibrary-tutorial
-* https://github.com/mdn/django-locallibrary-tutorial
+### 이벤트 입문
+
+* [웹 이벤트를 사용하는 방법 1](./mystudy/event/event1)
+* [웹 이벤트를 사용하는 방법 2](./mystudy/event/event2)
+
+
+
